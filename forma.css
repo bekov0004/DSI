@@ -1,0 +1,45 @@
+fieldset{
+    /* display: inline; */
+   background-color: rgb(23, 91, 150);
+   margin-bottom: 10px;
+}
+.fieldset1{
+    padding:20px ;
+    border: none;
+    background-color:rgb(23, 91, 150);
+}
+form{
+    display: flex;
+    justify-content: center;
+}
+label .stepen{
+    text-align: center;
+}
+.stepen{
+    padding: 45%;
+}
+#Upto, #The,#years{
+    width: 10%;
+}
+#Brash{
+    width: 20%;
+}
+#degri{
+    width: 12%;
+}
+
+.contener{
+    display: flex;
+}
+.left{
+    width: 50%;
+  text-align: right;
+  padding-right: 10px;
+}
+
+.right{
+    width: 50%;
+}
+.right input, select {
+    margin-bottom: 5%;
+}
